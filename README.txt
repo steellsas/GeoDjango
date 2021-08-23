@@ -1,0 +1,1 @@
+this app for testFolium map in django
