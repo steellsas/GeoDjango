@@ -1,0 +1,673 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/27193090",
+    "@relations": [
+      {
+        "role": "admin_centre",
+        "rel": 1069509,
+        "reltags": {
+          "ISO3166-2": "LT-KU",
+          "admin_level": "4",
+          "boundary": "administrative",
+          "is_in:continent": "Europe",
+          "is_in:country": "Lithuania",
+          "is_in:country_code": "LT",
+          "name": "Kauno apskritis",
+          "name:ar": "مقاطعة كاوناس",
+          "name:bat-smg": "Kauna apskrėtės",
+          "name:be": "Каўнаскі павет",
+          "name:be-tarask": "Ковенскі павет",
+          "name:bg": "Каунаски окръг",
+          "name:ca": "Comtat de Kaunas",
+          "name:cs": "Kaunaský kraj",
+          "name:de": "Bezirk Kauen",
+          "name:el": "Επαρχία Κάουνας",
+          "name:en": "Kaunas County",
+          "name:eo": "Distrikto Kaŭno",
+          "name:es": "Provincia de Kaunas",
+          "name:et": "Kaunase maakond",
+          "name:eu": "Kaunasko konderria",
+          "name:fa": "شهرستان کاوناس",
+          "name:fi": "Kaunasin lääni",
+          "name:fr": "Apskritis de Kaunas",
+          "name:ga": "Contae Kaunas",
+          "name:hr": "Okrug Kaunas",
+          "name:id": "County Kaunas",
+          "name:it": "Contea di Kaunas",
+          "name:ja": "カウナス県",
+          "name:ka": "კაუნასის მაზრა",
+          "name:ko": "카우나스 주",
+          "name:kw": "Konteth Kaunas",
+          "name:lt": "Kauno apskritis",
+          "name:lv": "Kauņas apriņķis",
+          "name:no": "Kaunas fylke",
+          "name:pnb": "کاؤناس کاؤنٹی",
+          "name:ro": "Județul Kaunas",
+          "name:ru": "Каунасский уезд",
+          "name:sco": "Kaunas Coonty",
+          "name:sr": "Каунаски округ",
+          "name:stq": "Distrikt Kaunas",
+          "name:sv": "Kaunas län",
+          "name:sw": "Wilaya ya Kaunas",
+          "name:uk": "Каунаський повіт",
+          "name:zh": "考那斯縣",
+          "old_name:de": "Bezirk Kauen",
+          "population": "587410",
+          "type": "boundary",
+          "wikidata": "Q853861",
+          "wikipedia": "lt:Kauno apskritis"
+        }
+      }
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.9044817,
+      54.8982139
+    ]
+  },
+  "id": "node/27193090"
+},
+{
+"type": "Feature",
+"properties": {
+"@id": "node/27193093",
+"@relations": [
+{
+"role": "admin_centre",
+"rel": 977317,
+"reltags": {
+"ISO3166-2": "LT-VL",
+"admin_level": "4",
+"boundary": "administrative",
+"geonames:id": "864485",
+"is_in:continent": "Europe",
+"is_in:country": "Lithuania",
+"is_in:country_code": "LT",
+"name": "Vilniaus apskritis",
+"name:ar": "مقاطعة فيلنيوس",
+"name:bat-smg": "Vėlniaus apskrėtės",
+"name:be": "Вільнюскі павет",
+"name:be-tarask": "Віленскі павет",
+"name:bg": "Вилнюски окръг",
+"name:ca": "Comtat de Vílnius",
+"name:cs": "Vilniuský kraj",
+"name:de": "Bezirk Wilna",
+"name:el": "Επαρχία Βίλνιους",
+"name:en": "Vilnius County",
+"name:eo": "Distrikto Vilno",
+"name:es": "Provincia de Vilna",
+"name:et": "Vilniuse maakond",
+"name:eu": "Vilniusko konderria",
+"name:fa": "شهرستان ویلنیوس",
+"name:fi": "Vilnan lääni",
+"name:fr": "Apskritis de Vilnius",
+"name:ga": "Contae Vilnius",
+"name:hr": "Okrug Vilnius",
+"name:id": "County Vilnius",
+"name:it": "Contea di Vilnius",
+"name:ja": "ヴィリニュス県",
+"name:ka": "ვილნიუსის მაზრა",
+"name:ko": "빌뉴스 주",
+"name:kw": "Konteth Vilnius",
+"name:lt": "Vilniaus apskritis",
+"name:lv": "Viļņas apriņķis",
+"name:nn": "Vilnius fylke",
+"name:no": "Vilnius fylke",
+"name:pl": "Okręg wileński",
+"name:pnb": "ویلنیوس کاؤنٹی",
+"name:ro": "Județul Vilnius",
+"name:ru": "Вильнюсский уезд",
+"name:sa": "विल्ञुमण्डलम्",
+"name:sco": "Vilnius Coonty",
+"name:sh": "Вилњус округ",
+"name:sr": "Вилњуски округ",
+"name:stq": "Distrikt Vilnius",
+"name:sv": "Vilnius län",
+"name:sw": "Wilaya ya Vilnius",
+"name:uk": "Вільнюський повіт",
+"name:ur": "ویلنیوس کاؤنٹی",
+"name:zh": "維爾紐斯縣",
+"population": "810403",
+"type": "boundary",
+"wikidata": "Q188061",
+"wikipedia": "lt:Vilniaus apskritis"
+}
+}
+]
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+25.2829111,
+54.6870458
+]
+},
+"id": "node/27193093"
+},
+{
+"type": "Feature",
+"properties": {
+"@id": "node/27193094",
+"@relations": [
+{
+"role": "admin_centre",
+"rel": 1189583,
+"reltags": {
+"ISO3166-2": "LT-KL",
+"admin_level": "4",
+"boundary": "administrative",
+"is_in:continent": "Europe",
+"is_in:country": "Lithuania",
+"is_in:country_code": "LT",
+"name": "Klaipėdos apskritis",
+"name:an": "Rechión de Klaipėda",
+"name:ar": "مقاطعة كلايبيدا",
+"name:az": "Klaypeda bölgəsi",
+"name:bat-smg": "Klaipiedas apskrėtės",
+"name:be": "Клайпедскі павет",
+"name:be-tarask": "Клайпедзкі павет",
+"name:bg": "Клайпедски окръг",
+"name:ca": "Comtat de Klaipėda",
+"name:ce": "Клайпедин кӀошт",
+"name:cs": "Klaipėdský kraj",
+"name:da": "Det tidligere Klaipėda amt",
+"name:de": "Bezirk Memel",
+"name:el": "Επαρχία Κλάιπεντα",
+"name:en": "Klaipeda County",
+"name:eo": "Distrikto Klaipėda",
+"name:es": "Provincia de Klaipėda",
+"name:et": "Klaipėda maakond",
+"name:eu": "Klaipėdako konderria",
+"name:fi": "Klaipėdan lääni",
+"name:fr": "Apskritis de Klaipėda",
+"name:he": "מחוז קלייפדה",
+"name:hr": "Okrug Klaipėda",
+"name:hu": "Klaipėda megye",
+"name:id": "County Klaipėda",
+"name:it": "Contea di Klaipėda",
+"name:ja": "クライペダ県",
+"name:ka": "კლაიპედის მაზრა",
+"name:ko": "클라이페다 주",
+"name:kw": "Konteth Klaipėda",
+"name:lt": "Klaipėdos apskritis",
+"name:lv": "Klaipēdas apriņķis",
+"name:mhr": "Клайпеде уезд",
+"name:mk": "Клајпедски округ",
+"name:mr": "क्लीपेदा काउंटी",
+"name:nl": "Klaipėda district",
+"name:nn": "Klaipėda fylke",
+"name:no": "Klaipėda fylke",
+"name:pl": "Okręg kłajpedzki",
+"name:pms": "Contà ëd Klaipėda",
+"name:pnb": "کلائیپیدا کاؤنٹی",
+"name:pt": "Condado de Klaipėda",
+"name:ro": "Județul Klaipėda",
+"name:ru": "Клайпедский уезд",
+"name:sco": "Klaipėda Coonty",
+"name:sh": "Okrug Klajpeda",
+"name:sr": "Клајпедски округ",
+"name:stq": "Distrikt Klaipėda",
+"name:sv": "Klaipėda provins",
+"name:sw": "Wilaya ya Klaipėda",
+"name:tg": "Вилояти Клайпеда",
+"name:tt": "Клайпеда өязе",
+"name:uk": "Клайпедський повіт",
+"name:vi": "Hạt Klaipėda",
+"name:zh": "克萊佩達縣",
+"population": "329146",
+"type": "boundary",
+"wikidata": "Q475207",
+"wikipedia": "lt:Klaipėdos apskritis"
+}
+}
+]
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+21.1350469,
+55.7127529
+]
+},
+"id": "node/27193094"
+},
+{
+"type": "Feature",
+"properties": {
+"@id": "node/27193269",
+"@relations": [
+{
+"role": "admin_centre",
+"rel": 1256237,
+"reltags": {
+"ISO3166-2": "LT-SA",
+"admin_level": "4",
+"boundary": "administrative",
+"is_in:continent": "Europe",
+"is_in:country": "Lithuania",
+"is_in:country_code": "LT",
+"name": "Šiaulių apskritis",
+"name:be": "Шаўляйскі павет",
+"name:be-tarask": "Шавельскі павет",
+"name:de": "Bezirk Schaulen",
+"name:en": "Siauliai County",
+"name:es": "Provincia de Šiauliai",
+"name:fr": "Apskritis de Šiauliai",
+"name:lt": "Šiaulių apskritis",
+"name:pl": "Okręg szawelski",
+"name:ru": "Шяуляйский уезд",
+"name:uk": "Шяуляйський повіт",
+"population": "285870",
+"type": "boundary",
+"wikidata": "Q186410",
+"wikipedia": "lt:Šiaulių apskritis"
+}
+}
+]
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+23.3157775,
+55.9340823
+]
+},
+"id": "node/27193269"
+},
+{
+"type": "Feature",
+"properties": {
+"@id": "node/32441977",
+"@relations": [
+{
+"role": "admin_centre",
+"rel": 974211,
+"reltags": {
+"ISO3166-2": "LT-MR",
+"admin_level": "4",
+"boundary": "administrative",
+"geonames:id": "864479",
+"is_in:continent": "Europe",
+"is_in:country": "Lithuania",
+"is_in:country_code": "LT",
+"name": "Marijampolės apskritis",
+"name:ar": "مقاطعة ميرايامبوله",
+"name:bat-smg": "Marėjampuolės apskrėtės",
+"name:be": "Марыямпальскі павет",
+"name:be-tarask": "Мар’ямпальскі павет",
+"name:bg": "Мариямполски окръг",
+"name:ca": "Comtat de Marijampolė",
+"name:cs": "Marijampolský kraj",
+"name:da": "Marijampolė amt",
+"name:de": "Bezirk Mariampol",
+"name:el": "Επαρχία Μαριγιαμπολέ",
+"name:en": "Marijampole County",
+"name:eo": "Distrikto Marijampolė",
+"name:es": "Provincia de Marijampolė",
+"name:et": "Marijampolė maakond",
+"name:eu": "Marijampolėko konderria",
+"name:fi": "Marijampolėn lääni",
+"name:fr": "Apskritis de Marijampolė",
+"name:hr": "Okrug Marijampolė",
+"name:id": "County Marijampolė",
+"name:it": "Contea di Marijampolė",
+"name:ja": "マリヤーンポレ県",
+"name:ka": "მარიამპოლის მაზრა",
+"name:ko": "마리얌폴레 주",
+"name:kw": "Konteth Marijampolė",
+"name:la": "Marijampolė districtus",
+"name:lt": "Marijampolės apskritis",
+"name:lv": "Marijampoles apriņķis",
+"name:nl": "Marijampolė district",
+"name:no": "Marijampolė fylke",
+"name:pl": "Okręg mariampolski",
+"name:pnb": "ماریجمپولے کاؤنٹی",
+"name:pt": "Marijampolė condado",
+"name:ro": "Județul Marijampolė",
+"name:ru": "Мариямпольский уезд",
+"name:sco": "Marijampolė Coonty",
+"name:sr": "Маријамполе округ",
+"name:stq": "Distrikt Marijampolė",
+"name:sv": "Marijampolė provins",
+"name:sw": "Wilaya ya Marijampolė",
+"name:tg": "Вилояти Мариямполе",
+"name:uk": "Маріямпольський повіт",
+"name:vi": "Marijampolė hạt",
+"name:zh": "馬里揚泊列縣",
+"population": "154097",
+"type": "boundary",
+"wikidata": "Q853948",
+"wikipedia": "lt:Marijampolės apskritis"
+}
+}
+]
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+23.3503665,
+54.5562536
+]
+},
+"id": "node/32441977"
+},
+{
+"type": "Feature",
+"properties": {
+"@id": "node/32821920",
+"@relations": [
+{
+"role": "admin_centre",
+"rel": 1076930,
+"reltags": {
+"ISO3166-2": "LT-AL",
+"admin_level": "4",
+"boundary": "administrative",
+"geonames:id": "864389",
+"is_in:continent": "Europe",
+"is_in:country": "Lithuania",
+"is_in:country_code": "LT",
+"name": "Alytaus apskritis",
+"name:ar": "مقاطعة أليتس",
+"name:bat-smg": "Alītaus apskrėtės",
+"name:be": "Алітускі павет",
+"name:be-tarask": "Аліцкі павет",
+"name:bg": "Алитуски окръг",
+"name:ca": "Comtat d'Alytus",
+"name:cs": "Alytuský kraj",
+"name:da": "Alytus amt",
+"name:de": "Bezirk Alitten",
+"name:el": "Επαρχία Αλύτους",
+"name:en": "Alytus County",
+"name:eo": "Distrikto Alytus",
+"name:es": "Provincia de Alytus",
+"name:et": "Alytuse maakond",
+"name:eu": "Alytusko konderria",
+"name:fi": "Alytusin lääni",
+"name:fr": "Apskritis d'Alytus",
+"name:hr": "Okrug Alitus",
+"name:id": "County Alytus",
+"name:it": "Contea di Alytus",
+"name:ja": "アリートゥス県",
+"name:ka": "ალიტუსის მაზრა",
+"name:ko": "알리투스 주",
+"name:kw": "Konteth Alytus",
+"name:la": "Alytus districtus",
+"name:lt": "Alytaus apskritis",
+"name:lv": "Alītas apriņķis",
+"name:nl": "Alytus district",
+"name:no": "Alytus fylke",
+"name:pl": "Okręg olicki",
+"name:pnb": "الوتس کاؤنٹی",
+"name:pt": "Alytus condado",
+"name:ro": "Județul Alytus",
+"name:ru": "Алитусский уезд",
+"name:sco": "Alytus Coonty",
+"name:sr": "Алитус округ",
+"name:stq": "Distrikt Alytus",
+"name:sv": "Alytus provins",
+"name:sw": "Wilaya ya Alytus",
+"name:uk": "Алітуський повіт",
+"name:zh": "阿利圖斯縣",
+"population": "149897",
+"type": "boundary",
+"wikidata": "Q669470",
+"wikipedia": "lt:Alytaus apskritis"
+}
+}
+]
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+24.0459268,
+54.3961344
+]
+},
+"id": "node/32821920"
+},
+{
+"type": "Feature",
+"properties": {
+"@id": "node/32832910",
+"@relations": [
+{
+"role": "admin_centre",
+"rel": 966958,
+"reltags": {
+"ISO3166-2": "LT-UT",
+"admin_level": "4",
+"boundary": "administrative",
+"geonames:id": "864484",
+"is_in:continent": "Europe",
+"is_in:country": "Lithuania",
+"is_in:country_code": "LT",
+"name": "Utenos apskritis",
+"name:ar": "مقاطعة أوتينا",
+"name:bat-smg": "Otenuos apskrėtės",
+"name:be": "Уцянскі павет",
+"name:be-tarask": "Уцянскі павет",
+"name:bg": "Утенски окръг",
+"name:bs": "Okrug Utena",
+"name:ca": "Comtat d'Utena",
+"name:cs": "Utenský kraj",
+"name:de": "Bezirk Utenen",
+"name:el": "Επαρχία Ουτενά",
+"name:en": "Utena County",
+"name:eo": "Distrikto Utena",
+"name:es": "Provincia de Utena",
+"name:et": "Utena maakond",
+"name:eu": "Utenako konderria",
+"name:fa": "شهرستان اوتنا",
+"name:fi": "Utenan lääni",
+"name:fr": "Apskritis d'Utena",
+"name:ga": "Contae Utena",
+"name:he": "מחוז אוטנה",
+"name:hr": "Okrug Utena",
+"name:it": "Contea di Utena",
+"name:ja": "ウテナ郡",
+"name:ka": "უტენის მაზრა",
+"name:ko": "우테나 주",
+"name:kw": "Konteth Utena",
+"name:lt": "Utenos apskritis",
+"name:lv": "Utenas apriņķis",
+"name:no": "Utena fylke",
+"name:pl": "Okręg uciański",
+"name:pnb": "اوتینا کاؤنٹی",
+"name:pt": "Condado de Utena",
+"name:ro": "Județul Utena",
+"name:ru": "Утенский уезд",
+"name:sa": "उतेनमण्डलम्",
+"name:sco": "Utena Coonty",
+"name:sh": "Okrug Utena",
+"name:sr": "Утенски округ",
+"name:stq": "Distrikt Utena",
+"name:sv": "Utena län",
+"name:sw": "Wilaya ya Utena",
+"name:tg": "Вилояти Утена",
+"name:uk": "Утенський повіт",
+"name:ur": "اوتینا کاؤنٹی",
+"name:zh": "烏田納縣",
+"population": "152004",
+"type": "boundary",
+"wikidata": "Q188659",
+"wikipedia": "lt:Utenos apskritis"
+}
+}
+]
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+25.6025772,
+55.4984381
+]
+},
+"id": "node/32832910"
+},
+{
+"type": "Feature",
+"properties": {
+"@id": "node/33187331",
+"@relations": [
+{
+"role": "admin_centre",
+"rel": 1028503,
+"reltags": {
+"ISO3166-2": "LT-PN",
+"admin_level": "4",
+"boundary": "administrative",
+"is_in:continent": "Europe",
+"is_in:country": "Lithuania",
+"is_in:country_code": "LT",
+"name": "Panevėžio apskritis",
+"name:ar": "مقاطعة بانيفيزيس",
+"name:bat-smg": "Paneviežė apskrėtės",
+"name:be": "Панявежыскі павет",
+"name:be-tarask": "Панявескі павет",
+"name:bg": "Паневежиски окръг",
+"name:ca": "Comtat de Panevėžys",
+"name:cs": "Panevėžyský kraj",
+"name:de": "Bezirk Ponewiesch",
+"name:el": "Επαρχία Πανεβεζίς",
+"name:en": "Panevezys County",
+"name:eo": "Distrikto Panevėžys",
+"name:es": "Provincia de Panevėžys",
+"name:et": "Panevėžysi maakond",
+"name:eu": "Panevėžysko konderria",
+"name:fa": "شهرستان پانه‌وژیس",
+"name:fi": "Panevėžysin lääni",
+"name:fr": "Apskritis de Panevėžys",
+"name:ga": "Contae Panevėžys",
+"name:he": "מחוז פוניבז'",
+"name:hr": "Okrug Panevėžis",
+"name:it": "Contea di Panevėžys",
+"name:ja": "パネヴェジース郡",
+"name:ka": "პანევეჟისის მაზრა",
+"name:ko": "파네베지스 주",
+"name:kw": "Konteth Panevėžys",
+"name:lt": "Panevėžio apskritis",
+"name:lv": "Panevēžas apriņķis",
+"name:mo": "Жудецул Паневежис",
+"name:no": "Panevėžys fylke",
+"name:pl": "Okręg poniewieski",
+"name:pnb": "پینیویژیس کاؤنٹی",
+"name:ro": "Județul Panevėžys",
+"name:ru": "Паневежский уезд",
+"name:sa": "पनेवेजिमण्डलम्",
+"name:sco": "Panevėžys Coonty",
+"name:sh": "Okrug Panevėžis",
+"name:sr": "Паневежиски округ",
+"name:stq": "Distrikt Panevėžys",
+"name:sv": "Panevėžys län",
+"name:sw": "Wilaya ya Panevėžys",
+"name:tg": "Вилояти Паневежис",
+"name:uk": "Паневежиський повіт",
+"name:ur": "پانیویژیس کاؤنٹی",
+"name:zh": "帕涅韋日斯縣",
+"population": "238802",
+"type": "boundary",
+"wikidata": "Q188085",
+"wikipedia": "lt:Panevėžio apskritis"
+}
+}
+]
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+24.3578055,
+55.7344985
+]
+},
+"id": "node/33187331"
+},
+{
+"type": "Feature",
+"properties": {
+"@id": "node/442012721",
+"@relations": [
+{
+"role": "admin_centre",
+"rel": 1211025,
+"reltags": {
+"ISO3166-2": "LT-TE",
+"admin_level": "4",
+"boundary": "administrative",
+"is_in:continent": "Europe",
+"is_in:country": "Lithuania",
+"is_in:country_code": "LT",
+"name": "Telšių apskritis",
+"name:be": "Цяльшэйскі павет",
+"name:be-tarask": "Цельшыцкі павет",
+"name:de": "Bezirk Telsche",
+"name:en": "Telsiai County",
+"name:es": "Provincia de Telšiai",
+"name:fr": "Apskritis de Telšiai",
+"name:lt": "Telšių apskritis",
+"name:pl": "Okręg telszański",
+"name:ru": "Тельшяйский уезд",
+"name:uk": "Тельшяйський повіт",
+"population": "145564",
+"type": "boundary",
+"wikidata": "Q188963",
+"wikipedia": "lt:Telšių apskritis"
+}
+}
+]
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+22.2490753,
+55.9846135
+]
+},
+"id": "node/442012721"
+},
+{
+"type": "Feature",
+"properties": {
+"@id": "node/3241745464",
+"@relations": [
+{
+"role": "admin_centre",
+"rel": 1307305,
+"reltags": {
+"ISO3166-2": "LT-TA",
+"admin_level": "4",
+"boundary": "administrative",
+"is_in:continent": "Europe",
+"is_in:country": "Lithuania",
+"is_in:country_code": "LT",
+"name": "Tauragės apskritis",
+"name:be": "Таўрагскі павет",
+"name:be-tarask": "Таўроскі павет",
+"name:de": "Bezirk Tauroggen",
+"name:en": "Taurage County",
+"name:es": "Provincia de Tauragė",
+"name:fr": "Apskritis de Tauragė",
+"name:lt": "Tauragės apskritis",
+"name:pl": "Okręg tauroski",
+"name:ru": "Таурагский уезд",
+"name:uk": "Таурагський повіт",
+"population": "104683",
+"type": "boundary",
+"wikidata": "Q188960",
+"wikipedia": "lt:Tauragės apskritis"
+}
+}
+]
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+22.2903395,
+55.2533635
+]
+},
+ "id": "node/3241745464"
+}
