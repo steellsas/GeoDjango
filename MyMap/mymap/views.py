@@ -30,19 +30,20 @@ def map_view(request):
     style_rivers = {'color': 'blue'}
 
     ## adding to view
-
+    lt_geo = r"C:\my porfolio\GeoMapDjango\MyMap\media\LTU.geojson"
     geo_json = r"C:\my porfolio\GeoMapDjango\MyMap\media\gz_2010_us_040_00_500k.json"
     folium.GeoJson(geo_json, name="geojson").add_to(m)
 
 
     #
     # folium.GeoJson(os.path.join(shp_dir, 'basin.geojson'), name='basin', style_function=lambda x: style_basin).add_to(m)
-    # # folium.GeoJson(os.path.join(shp_dir, 'rivers.geojson'), name='geojson').add_to(mm)
+    folium.GeoJson(os.path.join(shp_dir, 'LTU.geojson'), name='rajonai').add_to(m)
+
     # # geo_file = 'media/shp/counties.geojson'
     # # folium.GeoJson(geo_file).add_to(m)
     #
     # print(m)
-    # # folium.LayerControl().add_to(m)
+    folium.LayerControl().add_to(m)
     # print('ok2')
     # ## exporting
     m = m._repr_html_()
@@ -101,4 +102,27 @@ def map_view(request):
     # df = pd.read_json(r'C:\my porfolio\GeoMapDjango\MyMap\media\shp\counties.geojson')
     # df.to_csv(r'C:\my porfolio\GeoMapDjango\MyMap\media\New_Products.csv', index=None)
     #
+    # class DictObject(object):
+    #     def __init__(self, _dict):
+    #         self.__dict__.update(_dict)
+    #
+    # def read_json_file(file_path) -> object:
+    #     with open(file_path, 'r') as f:
+    #         data = json.loads(f.read())
+    #         return data
+    # region_dir = os.path.join(os.getcwd(), 'media', 'draw_data')
+    # folium.GeoJson(os.path.join(region_dir, 'LTU.geojson'), name='rajonai').add_to(m)
+    #     # # rad from geojson file
+    #     # # from_file = read_json_file('media/draw_data/LTU.geojson')
+    #     # # json file to dict object
+    #     # dict_obj = DictObject(from_file)
+    #     # data_pakruojo = dict_obj.features[0]['geometry']
+    #     # # folium.GeoJson(data=dict['geometry']).add_to(m)
+    # folium.GeoJson(data=data_pakruojo, name= 'Pakruojo rajonas' ).add_to(m)
+
+
+    # dict={"geometry": {"type": "Polygon", "coordinates":[
+        # [[22.131958, 55.807456], [22.609863, 55.764213], [22.335205, 55.578345], [22.999878, 55.689972],
+         # [22.675781, 55.881474], [22.131958, 55.807456]]]}}
+
 
